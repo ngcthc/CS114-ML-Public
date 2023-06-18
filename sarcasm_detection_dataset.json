@@ -1,144 +1,617 @@
 [
-{
-"article_link": "https://cuoi.tuoitre.vn/cuc-no-den-tu-hu-vo-crush-lam-cam-chiu-20230614141447193.htm", 
-"headline": "Cục nợ đến từ hư vô: Crush làm, cam chịu!", 
-"is_sarcastic": 1
-},
-{
-"article_link": "https://vnexpress.net/bien-dong-co-xe-may-cu-thanh-nong-cu-4617346.html", 
-"headline": "Biến động cơ xe máy cũ thành nông cụ", 
-"is_sarcastic": 0
-},
-{
-"article_link": "https://cuoi.tuoitre.vn/doi-no-thue-theo-phong-cach-nghe-si-20230616142023099.htm", 
-"headline": "Đòi nợ thuê theo phong cách nghệ sĩ", 
-"is_sarcastic": 1
-},
-
-{
-"article_link": "https://cuoi.tuoitre.vn/quan-chuc-bi-benh-gi-la-ghe-20230614153422405.htm", 
-"headline": "Quan chức bị bệnh gì lạ ghê!", 
-"is_sarcastic": 1
-},
-{
-"article_link": "https://vnexpress.net/ke-ho-phap-ly-thoi-bung-tranh-chap-o-chung-cu-4602449.html", 
-"headline": "Kẽ hở pháp lý thổi bùng tranh chấp ở chung cư", 
-"is_sarcastic": 0
-},
-{
-"article_link": "https://cuoi.tuoitre.vn/nguoi-dan-ong-bo-vo-vi-tiet-kiem-dien-20230606082454527.htm", 
-"headline": "Người đàn ông bơ vơ vì tiết kiệm điện", 
-"is_sarcastic": 1
-},
-{
-"article_link": "https://vnexpress.net/cuoc-chien-so-huu-o-chung-cu-4612080.html", 
-"headline": "Cuộc chiến sở hữu ở chung cư", 
-"is_sarcastic": 0
-},
-{
-"article_link": "https://cuoi.tuoitre.vn/be-gai-danh-van-dung-cong-thuc-nhung-sai-ket-qua-20230617105036029.htm", 
-"headline": "Bé gái đánh vần 'đúng công thức nhưng sai kết quả", 
-"is_sarcastic": 1
-},
-{
-"article_link": "https://vnexpress.net/lang-cau-kieu-giup-tim-nguoi-duoi-nuoc-4611515.html", 
-"headline": "Làng câu kiều giúp tìm người đuối nước", 
-"is_sarcastic": 0
-},
-{
-"article_link": “https://cuoi.tuoitre.vn/du-khach-choi-nhay-day-voi-gia-ve-may-bay-20230429211835491.htm”,
-"headline": " Du khách chơi “nhảy dây" với giá vé máy bay”, 
-"is_sarcastic": 1
-},
-{
-"article_link": 
-“https://cuoi.tuoitre.vn/chuyen-ve-nhung-via-he-rong-tay-gang-20230419220605205.htm”,
-"headline": "Chuyện về những vỉa hè rộng... tày gang”, 
-"is_sarcastic": 1
-},
-{
-"article_link": 
-“https://cuoi.tuoitre.vn/bua-an-mau-trong-truong-ban-tru-20230528224504892.htm”,
-"headline": “Bữa ăn mẫu' trong trường bán trú”,
-"is_sarcastic": 1
-},
-{
-"article_link": 
-“https://cuoi.tuoitre.vn/thanh-tich-100-hoc-sinh-gioi-hoi-ky-20230522154059475.htm”,
-“headline”: “Thành tích 100% học sinh giỏi... hơi kỳ”,
-"is_sarcastic": 1
-},
-
-{
-"article_link": 
-“https://cuoi.tuoitre.vn/thuoc-la-dien-tu-ap-sat-cong-truong-20230501083432026.htm”,
-“headline”: “Thuốc lá điện tử 'áp sát' cổng trường”,
-"is_sarcastic": 1
-},
-{
-"article_link": 
-“https://cuoi.tuoitre.vn/benh-vien-dat-lanh-co-dau-20230523104344562.htm”,
-“headline”: “Bệnh viện: Đất lành... cò đậu”,
-"is_sarcastic": 1
-},
-{
-"article_link": 
-“https://vnexpress.net/thiet-hai-hang-tram-trieu-dong-vi-cua-bien-boi-lap-4595529.html”, 
-“headline”: “Thiệt hại hàng trăm triệu đồng vì cửa biển bồi lấp”,
-"is_sarcastic": 0
-},
-{
-"article_link": 
-“https://vnexpress.net/dan-kho-vi-du-an-do-thi-cham-giao-ha-tang-4599571.html”, 
-“headline”: “Dân khổ vì dự án đô thị chậm giao hạ tầng
-"is_sarcastic": 0
-},
-{
-"article_link": 
-“https://vnexpress.net/cap-dien-vien-thong-giang-mang-nhen-tren-pho-ha-noi-4596940.html”, 
-“headline”: “Cáp điện, viễn thông giăng 'mạng nhện' trên phố Hà Nội”,
-"is_sarcastic": 0
-},
-{
-"article_link": 
-“https://vnexpress.net/sua-quy-dinh-so-huu-de-han-che-tranh-chap-o-chung-cu-4614882.html”, 
-“headline”: “Sửa quy định sở hữu để hạn chế tranh chấp ở chung cư”,
-"is_sarcastic": 0
-},
-{
-"article_link": 
-“https://cuoi.tuoitre.vn/gui-tiet-kiem-bi-ho-bien-thanh-bao-hiem-nhan-tho-20230506165634766.htm”, 
-“headline”: “Gửi tiết kiệm bị 'hô biến' thành bảo hiểm nhân thọ”,
-"is_sarcastic": 1
-},
-{
-"article_link": 
-“https://cuoi.tuoitre.vn/nguoi-gia-tich-tac-nguoi-tre-top-top-20230425003759253.htm”, 
-“headline”: “Người già 'tích tắc', người trẻ 'tóp tóp”,
-"is_sarcastic": 1
-},
-{
-"article_link": 
-“https://cuoi.tuoitre.vn/moi-lien-he-giua-phong-thuy-va-phong-bi-2023042113513775.htm”, 
-“headline”: “Mối liên hệ giữa phong thủy và phong bì”,
-"is_sarcastic": 1
-},
-{
-"article_link": 
-“https://cuoi.tuoitre.vn/cao-toc-quyet-roi-liet-luon-20230419223019573.htm”, 
-“headline”: “Cao tốc quyết rồi... liệt luôn”,
-"is_sarcastic": 1
-},
-{
-"article_link": 
-“https://vnexpress.net/gan-300-cong-nhan-bi-no-bao-hiem-xa-hoi-4592308.html”, 
-“headline”: “Gần 300 công nhân bị nợ bảo hiểm xã hội”,
-"is_sarcastic": 0
-},
-{
-"article_link": 
-“https://vnexpress.net/gan-may-lanh-o-truong-hoc-de-ngan-bui-san-bay-long-thanh-4591272.html”, 
-“headline”: “Gắn máy lạnh ở trường học để ngăn bụi sân bay Long Thành”,
-"is_sarcastic": 0
-}
+ {
+  "article_link": "https://vnexpress.net/de-xuat-co-che-khuyen-khich-dien-mat-troi-tu-dung-tai-nha-cong-so-4618888.html",
+  "headline": "Đề xuất cơ chế khuyến khích điện mặt trời tự dùng tại nhà, công sở",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/noi-voi-con-ve-nghe-nghiep-4618689.html",
+  "headline": "Nói với con về nghề nghiệp",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/ly-do-dieu-hoa-ngon-dien-hon-o-cac-nuoc-nhu-viet-nam-4618728.html",
+  "headline": "Lý do điều hòa ngốn điện hơn ở các nước như Việt Nam",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/uav-tu-sat-sieu-re-nga-bat-dau-thuc-chien-tai-ukraine-4618955.html",
+  "headline": "UAV tự sát siêu rẻ Nga bắt đầu thực chiến tại Ukraine",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/dan-vooc-quy-hiem-o-cat-ba-4618830.html",
+  "headline": "Đàn voọc quý hiếm ở Cát Bà",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/thu-tuong-nam-2025-ca-nuoc-dat-3-000-km-cao-toc-la-kha-thi-4618941.html",
+  "headline": "Thủ tướng: 'Năm 2025 cả nước đạt 3.000 km cao tốc là khả thi'",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/hai-cuu-giang-vien-sap-ra-toa-trong-vu-trung-de-thi-sinh-hoc-4618975.html",
+  "headline": "Hai người liên quan ra đề thi tốt nghiệp THPT 2021 sắp hầu tòa",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/man-phao-hoa-da-sac-mau-cua-doi-italy-va-australia-4618875.html",
+  "headline": "Màn pháo hoa đa sắc màu của đội Italy và Australia",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/khi-mbappe-bi-lang-phi-o-hu-mat-psg-4618937.html",
+  "headline": "Khi Mbappe bị lãng phí ở 'hũ mật' PSG",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/ong-putin-lan-dau-cong-bo-du-thao-hoa-binh-bat-thanh-voi-ukraine-4618861.html",
+  "headline": "Ông Putin lần đầu công bố dự thảo hòa bình bất thành với Ukraine",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/doanh-nghiep-singapore-mua-lai-chuoi-nha-hang-ca-phe-cua-novaland-4618968.html",
+  "headline": "Doanh nghiệp Singapore mua lại chuỗi nhà hàng, cà phê của Novaland",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/vng-du-tinh-nam-nay-lo-gan-600-ty-dong-4618936.html",
+  "headline": "VNG dự tính năm nay lỗ gần 600 tỷ đồng",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/dong-loat-khoi-cong-3-tuyen-cao-toc-o-phia-nam-4618802.html",
+  "headline": "Đồng loạt khởi công 3 tuyến cao tốc ở phía Nam",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://video.vnexpress.net/tin-tuc/thoi-su/du-khach-do-ve-chat-kin-bai-bien-sam-son-4618809.html",
+  "headline": "Du khách đổ về chật kín bãi biển Sầm Sơn",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/cong-ty-cua-musk-sap-cay-chip-vao-nao-nguoi-4618851.html",
+  "headline": "Công ty của Musk sắp cấy chip vào não người",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/con-gai-vu-linh-me-con-hong-phuong-vo-ly-khi-doi-chia-nha-dat-4618935.html",
+  "headline": "Con gái Vũ Linh: 'Mẹ con Hồng Phượng vô lý khi đòi chia nhà, đất'",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/modric-tu-choi-de-nghi-hon-200-trieu-usd-tu-arab-saudi-4618918.html",
+  "headline": "Modric từ chối đề nghị hơn 200 triệu USD từ Arab Saudi",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/ong-biden-tu-choi-cap-dac-quyen-de-ukraine-gia-nhap-nato-4618900.html",
+  "headline": "Ông Biden từ chối cấp đặc quyền để Ukraine gia nhập NATO",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/nghi-pham-chich-dien-giet-chau-ruot-bi-bat-4618923.html",
+  "headline": "Nghi phạm chích điện giết cháu ruột bị bắt",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/12-hoc-sinh-lien-quan-vu-lo-de-thi-lop-10-4618874.html",
+  "headline": "12 học sinh liên quan vụ lộ đề thi lớp 10",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/xe-khach-tong-nhau-hai-nguoi-chet-4618892.html",
+  "headline": "Xe khách tông nhau, hai người chết",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/nga-tuyen-bo-tan-cong-trung-tam-chi-huy-quan-doi-ukraine-4618853.html",
+  "headline": "Nga tuyên bố tấn công trung tâm chỉ huy quân đội Ukraine",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/mat-hang-trieu-dong-vi-mua-pin-tu-lap-dien-mat-troi-4617915.html",
+  "headline": "Mất hàng triệu đồng vì mua pin tự lắp điện mặt trời",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/linh-ukraine-ke-ve-noi-so-khi-dieu-khien-xe-tang-leopard-4618637.html",
+  "headline": "Lính Ukraine kể về nỗi sợ khi điều khiển xe tăng Leopard",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/canh-sat-theo-doi-trum-san-xuat-ma-tuy-o-sai-gon-suot-2-nam-4613101.html",
+  "headline": "Cảnh sát theo dõi 'trùm' sản xuất ma túy ở Sài Gòn suốt 2 năm",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/xuat-khau-sau-rieng-tang-18-lan-do-nhu-cau-tu-trung-quoc-4618752.html",
+  "headline": "Xuất khẩu sầu riêng tăng 18 lần do nhu cầu từ Trung Quốc",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/thit-heo-khong-thuoc-dien-binh-on-gia-4618797.html",
+  "headline": "",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/me-don-than-nen-dau-tu-va-kinh-doanh-the-nao-4618688.html",
+  "headline": "Mẹ đơn thân nên đầu tư và kinh doanh thế nào?",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/tasco-land-tang-von-them-550-ty-dong-4618625.html",
+  "headline": "Tasco Land tăng vốn thêm 550 tỷ đồng",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/chinh-phu-duyet-du-an-keo-dien-luoi-ra-con-dao-gan-5-000-ty-dong-4618790.html",
+  "headline": "Chính phủ duyệt dự án kéo điện lưới ra Côn Đảo gần 5.000 tỷ đồng",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/loat-duong-se-mo-quanh-khu-do-thi-times-city-4618946.html",
+  "headline": "Loạt đường sẽ mở quanh khu đô thị Times City",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/nha-pho-co-ha-noi-bi-ha-gia-hang-chuc-ty-dong-4618856.html",
+  "headline": "",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/3-ty-dong-nen-mua-nha-roi-ban-lai-hay-khai-thac-cho-thue-4618944.html",
+  "headline": "3 tỷ đồng nên mua nhà rồi bán lại hay khai thác cho thuê?",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/ngoi-nha-treo-rem-tre-doc-ban-cong-4618839.html",
+  "headline": "Ngôi nhà treo rèm tre dọc ban công",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/luu-y-de-cai-tao-nha-khong-bi-doi-gia-4617042.html",
+  "headline": "Lưu ý để cải tạo nhà không bị đội giá",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/pogba-toi-nhu-gia-di-10-tuoi-trong-bay-thang-qua-4618895.html",
+  "headline": "Pogba: 'Tôi như già đi 10 tuổi trong bảy tháng qua'",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/hlv-bo-dao-nha-ca-ngoi-tinh-than-dong-doi-cua-ronaldo-4618966.html",
+  "headline": "",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/modric-tu-choi-de-nghi-hon-200-trieu-usd-tu-arab-saudi-4618918.html",
+  "headline": "Modric từ chối đề nghị hơn 200 triệu USD từ Arab Saudi",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/chuyen-tinh-xuc-dong-o-us-open-2023-4618909.html",
+  "headline": "Chuyện tình xúc động ở US Open 2023",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/psg-tham-do-arteta-4618865.html",
+  "headline": "PSG thăm dò Arteta",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/lee-do-hyun-hoang-tu-phim-buon-cua-han-quoc-4616494.html",
+  "headline": "Lee Do Hyun - hoàng tử phim buồn của Hàn Quốc",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/my-nhan-philippines-duoc-yeu-thich-o-miss-supranational-2023-4618938.html",
+  "headline": "Mỹ nhân Philippines được yêu thích ở Miss Supranational 2023",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/oanh-yen-vui-voi-cuoc-song-lam-nong-4618427.html",
+  "headline": "Oanh Yến vui với cuộc sống làm nông",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/jorge-luis-borges-viet-ve-su-bat-tan-4618410.html",
+  "headline": "Jorge Luis Borges viết về sự bất tận",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/trieu-chung-bat-thuong-sau-an-canh-bao-ung-thu-ruot-4618988.html",
+  "headline": "Triệu chứng bất thường sau ăn cảnh báo ung thư ruột",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/can-thi-bao-nhieu-do-duoc-mo-mat-4618902.html",
+  "headline": "",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/phat-hien-ung-thu-phoi-sau-gan-mot-nam-dau-lung-4618898.html",
+  "headline": "Phát hiện ung thư phổi sau gần một năm đau lưng",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/ai-can-lam-xet-nghiem-gout-4618912.html",
+  "headline": "Ai cần làm xét nghiệm gout?",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/giam-5-cm-vong-eo-sau-hai-tuan-an-theo-quy-tac-ban-tay-4617690.html",
+  "headline": "Giảm 5 cm vòng eo sau hai tuần ăn theo 'quy tắc bàn tay'",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/hiem-hoa-khi-lam-mat-bang-khan-da-4618924.html",
+  "headline": "Hiểm họa khi làm mát bằng khăn đá",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/ngoai-tinh-voi-ai-4618886.html",
+  "headline": "",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/nhung-sai-sot-khi-giao-tiep-nhieu-nguoi-mac-4618648.html",
+  "headline": "Những sai sót khi giao tiếp nhiều người mắc",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/trao-luu-lam-con-gai-toan-thoi-gian-4618762.html",
+  "headline": "Trào lưu 'làm con gái toàn thời gian'",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/hoi-han-vi-it-con-4617276.html",
+  "headline": "Hối hận vì ít con",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/1-85-diem-moi-mon-trung-tuyen-lop-10-cong-lap-4618719.html",
+  "headline": "1,85 điểm mỗi môn trúng tuyển lớp 10 công lập",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/12-hoc-sinh-lien-quan-vu-lo-de-thi-lop-10-4618874.html",
+  "headline": "",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/xoa-so-chat-luong-cao-o-dai-hoc-chi-la-thay-ten-goi-4618873.html",
+  "headline": "Xóa sổ 'chất lượng cao' ở đại học chỉ là thay tên gọi",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/co-nen-chon-khoa-hoc-du-lieu-o-dai-hoc-kinh-te-quoc-dan-4618791.html",
+  "headline": "Có nên chọn Khoa học dữ liệu ở Đại học Kinh tế quốc dân?",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://vnexpress.net/kiem-tra-iq-voi-cau-do-tim-quy-luat-day-so-4618789.html",
+  "headline": "Kiểm tra IQ với câu đố tìm quy luật dãy số",
+  "is_sarcastic": 0
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/hoc-sinh-den-truong-bang-may-bay-truc-thang-20230618151459463.htm",
+  "headline": "Học sinh đến trường bằng... máy bay trực thăng",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/bao-ha-khoe-sac-voc-ruc-ro-ben-hhen-nie-tieu-vy-tai-y-20230618152635129.htm",
+  "headline": "Bảo Hà khoe sắc vóc rực rỡ bên H’Hen Niê, Tiểu Vy tại Ý",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/bi-cuop-giat-day-chuyen-nguoi-phu-nu-van-cuoi-tuoi-20230618112908705.htm",
+  "headline": "Bị cướp giật dây chuyền, người phụ nữ vẫn cười tươi",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/tuoi-tre-cuoi-so-15-6-2023-cup-dien-va-co-dien-luan-phien-2023061321125276.htm",
+  "headline": "Tuổi Trẻ Cười số 15-6-2023: Cúp điện và có điện luân phiên",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/su-tro-lai-cua-thanh-hai-xiec-voi-nhung-skill-dinh-cao-20230618165010661.htm",
+  "headline": "Sự trở lại của thánh hài xiếc với những skill đỉnh cao",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/thay-giao-giai-1-may-bao-nhieu-vo-cung-thuyet-phuc-20230618162151421.htm",
+  "headline": "Thầy giáo giải '1 + mấy = bao nhiêu' vô cùng thuyết phục",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/hoc-sinh-den-truong-bang-may-bay-truc-thang-20230618151459463.htm",
+  "headline": "Học sinh đến trường bằng... máy bay trực thăng",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/bao-ha-khoe-sac-voc-ruc-ro-ben-hhen-nie-tieu-vy-tai-y-20230618152635129.htm",
+  "headline": "Bảo Hà khoe sắc vóc rực rỡ bên H’Hen Niê, Tiểu Vy tại Ý",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/bi-cuop-giat-day-chuyen-nguoi-phu-nu-van-cuoi-tuoi-20230618112908705.htm",
+  "headline": "Bị cướp giật dây chuyền, người phụ nữ vẫn cười tươi",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/tuoi-tre-cuoi-so-15-6-2023-cup-dien-va-co-dien-luan-phien-2023061321125276.htm",
+  "headline": "Tuổi Trẻ Cười số 15-6-2023: Cúp điện và có điện luân phiên",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/su-tro-lai-cua-thanh-hai-xiec-voi-nhung-skill-dinh-cao-20230618165010661.htm",
+  "headline": "Sự trở lại của thánh hài xiếc với những skill đỉnh cao",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/thay-giao-giai-1-may-bao-nhieu-vo-cung-thuyet-phuc-20230618162151421.htm",
+  "headline": "Thầy giáo giải '1 + mấy = bao nhiêu' vô cùng thuyết phục",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/phu-huynh-ban-chuyen-hoc-dai-hoc-20230617172707694.htm",
+  "headline": "Phụ huynh bàn chuyện học đại học",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/chuyen-gia-michelin-am-tham-danh-gia-quan-hu-tieu-binh-dan-20230617174701624.htm",
+  "headline": "Chuyên gia Michelin âm thầm đánh giá quán hủ tiếu bình dân",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/nsnd-bach-tuyet-bat-tay-wowy-lam-gi-day-2023061722121174.htm",
+  "headline": "NSND Bạch Tuyết bắt tay Wowy làm gì đây?",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/anh-vui-18-6-bao-nguoi-phai-trong-ga-hoa-cuoc-20230618141259248.htm",
+  "headline": "Ảnh vui 18-6: Bao người phải 'trông gà hóa cuốc'!",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/cai-gia-cua-su-lieu-linh-khi-idol-dong-phim-hai-thanh-vien-blackpink-bi-fan-quay-lung-20230617201915421.htm",
+  "headline": "Cái giá của sự liều lĩnh khi idol đóng phim: Hai thành viên Blackpink bị fan quay lưng?",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/chuyen-gia-michelin-am-tham-danh-gia-quan-hu-tieu-binh-dan-20230617174701624.htm",
+  "headline": "Chuyên gia Michelin âm thầm đánh giá quán hủ tiếu bình dân",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/anh-che-tran-ngap-sau-khi-michelin-khong-chieu-long-nguoi-viet-20230607205735956.htm",
+  "headline": "Ảnh chế tràn ngập sau khi Michelin không 'chiều lòng' người Việt",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/khi-khau-vi-cai-lon-voi-michelin-20230612194615051.htm",
+  "headline": "Khi khẩu vị 'cãi lộn' với Michelin",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/co-gai-khong-mang-sieu-xe-20230617180652233.htm",
+  "headline": "Cô gái không màng siêu xe",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/truong-dai-hoc-cam-ket-100-sinh-vien-co-viec-lam-20230617170739225.htm",
+  "headline": "Trường đại học cam kết 100% sinh viên có việc làm",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/doi-no-thue-theo-phong-cach-nghe-si-20230616142023099.htm",
+  "headline": "Đòi nợ thuê theo phong cách nghệ sĩ",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/anh-vui-18-6-bao-nguoi-phai-trong-ga-hoa-cuoc-20230618141259248.htm",
+  "headline": "Ảnh vui 18-6: Bao người phải 'trông gà hóa cuốc'!",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/nhan-vien-giay-danh-dach-khong-chiu-di-lam-qua-4-ngay-tuan-20230614171358917.htm",
+  "headline": "Nhân viên 'giãy đành đạch' không chịu đi làm quá 4 ngày/tuần",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/lo-mat-that-youtuber-bi-che-xau-trai-den-muc-tuc-a-20230614180003491.htm",
+  "headline": "'Lộ mặt thật', YouTuber bị chê... xấu trai đến mức tức á!",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/hoc-sinh-den-truong-bang-may-bay-truc-thang-20230618151459463.htm",
+  "headline": "Học sinh đến trường bằng... máy bay trực thăng",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/anh-vui-17-6-anh-tay-dien-ao-xe-om-cong-nghe-de-du-trend-20230617110956671.htm",
+  "headline": "Ảnh vui 17-6: Anh Tây diện áo xe ôm công nghệ để đu trend?",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/su-that-ve-cac-ong-bo-trong-con-hien-nay-20230617085814287.htm",
+  "headline": "",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/co-gai-dang-lam-mc-bat-ngo-duoc-ban-trai-cau-hon-20230616141116794.htm",
+  "headline": "Cô gái đang làm MC bất ngờ được bạn trai cầu hôn",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/be-trai-giat-minh-khi-thay-me-tang-hinh-vao-phong-20230616120326987.htm",
+  "headline": "Bé trai giật mình khi thấy mẹ 'tàng hình' vào phòng",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/chang-trai-nhay-hip-hop-khi-truot-chan-nga-20230616164315848.htm",
+  "headline": "Chàng trai nhảy hip hop khi trượt chân ngã",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/ngong-ap-trung-cong-nghe-cao-20230617104034282.htm",
+  "headline": "Ngỗng ấp trứng công nghệ cao",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/be-gai-danh-van-dung-cong-thuc-nhung-sai-ket-qua-20230617105036029.htm",
+  "headline": "Bé gái đánh vần 'đúng công thức nhưng sai kết quả'",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/phan-loai-rac-thai-viec-nho-nhung-loi-ich-lon-20230615102446004.htm",
+  "headline": "Phân loại rác thải: Việc nhỏ nhưng lợi ích lớn",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/chong-lay-ao-vo-mac-vi-tuong-la-quan-20230616084918156.htm",
+  "headline": "Chồng lấy áo vợ mặc vì tưởng là quần",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/con-trai-duoc-bo-hau-thuan-cho-di-da-bong-khi-bi-me-cam-20230616090735946.htm",
+  "headline": "Con trai được bố hậu thuẫn cho đi đá bóng khi bị mẹ cấm",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/thu-mon-can-penalty-thanh-cong-bi-dong-doi-bao-hai-thung-luoi-20230616073517106.htm",
+  "headline": "Thủ môn cản penalty thành công bị đồng đội báo hại thủng lưới",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/ban-cu-lau-ngay-khong-gap-20230616195031192.htm",
+  "headline": "Bạn cũ lâu ngày không gặp",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/phu-huynh-ban-chuyen-hoc-dai-hoc-20230617172707694.htm",
+  "headline": "Phụ huynh bàn chuyện học đại học",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/cau-thu-cup-dien-ra-san-doi-ban-dau-hang-ngay-tu-dau-20230616093428155.htm",
+  "headline": "Cầu thủ cúp điện ra sân, đội bạn đầu hàng ngay từ đầu",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/ong-bo-te-ngua-vi-loi-noi-dau-doi-cua-con-trai-20230614223535519.htm",
+  "headline": "Ông bố té ngửa vì lời nói đầu đời của con trai",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/cai-gia-cua-su-lieu-linh-khi-idol-dong-phim-hai-thanh-vien-blackpink-bi-fan-quay-lung-20230617201915421.htm",
+  "headline": "Cái giá của sự liều lĩnh khi idol đóng phim: Hai thành viên Blackpink bị fan quay lưng?",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/bao-ha-khoe-sac-voc-ruc-ro-ben-hhen-nie-tieu-vy-tai-y-20230618152635129.htm",
+  "headline": "Bảo Hà khoe sắc vóc rực rỡ bên H’Hen Niê, Tiểu Vy tại Ý",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/nsnd-bach-tuyet-bat-tay-wowy-lam-gi-day-2023061722121174.htm",
+  "headline": "NSND Bạch Tuyết bắt tay Wowy làm gì đây?",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/tuoi-30-ruc-ro-nhu-phao-hoa-cua-chi-pu-20230617215634443.htm",
+  "headline": "Tuổi 30 rực rỡ như pháo hoa của Chi Pu",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/vi-sao-goi-la-rang-khon-20221120151113106.htm",
+  "headline": "Vì sao gọi là răng khôn?",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/mui-vaccine-so-4-nen-khong-nen-lui-20220716205925732.htm",
+  "headline": "Mũi vaccine số 4: nên, không nên \"lụi\"?",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/nhung-tac-hai-cua-thuoc-la-phan-2-2022010168515779.htm",
+  "headline": "Những tác hại của thuốc lá - phần 2",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/nhung-tac-hai-cua-thuoc-la-phan-1-2021122993087215.htm",
+  "headline": "Những tác hại của thuốc lá - Phần 1",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/nan-xuong-gon-mat-bang-tay-vui-tay-gang-ma-he-luy-ke-khong-het-2021111245711315.htm",
+  "headline": "Nắn xương gọn mặt bằng tay, vui tày gang mà hệ lụy kể không hết",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/kich-thich-nao-sau-de-dieu-tri-benh-parkinson-2021121885615311.htm",
+  "headline": "Kích thích não sâu để điều trị bệnh Parkinson",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/lam-chuyen-cai-mui-2021121551615963.htm",
+  "headline": "Lắm chuyện cái mũi...",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/covid-19-tu-bien-mat-hay-khong-bang-hen-2021121543520715.htm",
+  "headline": "Covid-19 tự biến mất, hay không  bằng hên?",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/chi-phi-dieu-tri-nguoi-mac-benh-mau-kho-dong-la-10-trieu-dong-ngay-2021121642993915.htm",
+  "headline": "Chi phí điều trị người mắc bệnh máu khó đông là 10 triệu đồng/ngày",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/dieu-gi-se-xay-ra-neu-chung-ta-khong-co-mong-tay-mong-chan-2021121579915269.htm",
+  "headline": "Điều gì sẽ xảy ra nếu chúng ta không có móng tay, móng chân?",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/viet-nam-can-co-luat-cu-the-ve-nuoi-cho-du-nhu-pitbull-20230520044848212.htm",
+  "headline": "Việt Nam cần có luật cụ thể về nuôi chó dữ như pitbull",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/nhung-vu-cho-pitbull-phan-chu-can-chet-nguoi-20230520040508744.htm",
+  "headline": "Những vụ chó pitbull phản chủ, cắn chết người",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/cuoc-chien-chong-cho-hoang-lieu-an-do-co-the-ra-khoi-ngo-cut-ky-2-20230518121030373.htm",
+  "headline": "Cuộc chiến chống chó hoang: Liệu Ấn Độ có thể ra khỏi... ngõ cụt? (Kỳ 2)",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/lang-ngao-so-kiem-tra-nang-luc-20230405110357564.htm",
+  "headline": "Làng Ngao Sò kiểm tra năng lực",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/co-gai-sut-penalty-nhe-heu-nhung-van-xau-kim-duoc-thu-mon-20230614092340997.htm",
+  "headline": "Cô gái sút penalty nhẹ hều nhưng vẫn xâu kim được thủ môn",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/ky-la-tui-xach-hang-hieu-sieu-mini-chi-nhin-thay-bang-kinh-hien-vi-20230617182053232.htm",
+  "headline": "Kỳ lạ túi xách hàng hiệu siêu mini chỉ nhìn thấy bằng kính hiển vi",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/muon-len-may-bay-thi-phai-thay-quan-20230506115832796.htm",
+  "headline": "Muốn lên máy bay thì phải... thay quần!",
+  "is_sarcastic": 1
+ },
+ {
+  "article_link": "https://cuoi.tuoitre.vn/tham-do-met-gala-nao-loan-vi-mot-vi-khach-khong-moi-ma-den-20230502192556173.htm",
+  "headline": "Thảm đỏ Met Gala náo loạn vì một vị khách 'không mời mà đến'",
+  "is_sarcastic": 1
+ }
 ]
